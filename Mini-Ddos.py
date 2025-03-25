@@ -39,7 +39,7 @@ def login ():#line:37:def login():
     while O0O0OO0000OO00O00 <3 :#line:44:while attempts < 3:
         O0000000OOO000O00 =input ("\n   ➤ Enter Username: ")#line:45:username = input("\n   ➤ Enter Username: ")
         OO00OO00OO0OOO00O =input ("   ➤ Enter Password: ")#line:46:password = input("   ➤ Enter Password: ")
-        if O0000000OOO000O00 =="cyber_protection"and OO00OO00OO0OOO00O =="mehadi0011":#line:48:if username == "BICP" and password == "BICP":
+        if O0000000OOO000O00 =="BICP"and OO00OO00OO0OOO00O =="BICP":#line:48:if username == "BICP" and password == "BICP":
             print ("\n   ✅ Login Successful!\n")#line:49:print("\n   ✅ Login Successful!\n")
             time .sleep (1 )#line:50:time.sleep(1)
             os .system ("clear")#line:51:os.system("clear")
